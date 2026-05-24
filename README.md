@@ -35,6 +35,11 @@ Convert Agisoft Metashape equirectangular (spherical) camera exports into COLMAP
       - It can specify the resolution rate and skip frames for each direction of extraction.Even by reducing data in directions with less texture (sky, ground) and directions with less parallax (front and back), you can retain 3DGS quality while reducing the amount of data. 
       - It is possible to perform SfM with a sufficient number of frames and then reduce data when 3DGS training.
       - https://x.com/kotohibi_3d/status/2049747035344224515
+    * V1.0.0
+      - Real Scale 3DGS with AprilTag
+      - User guide |  English : https://x.gd/CoWJA | Japanese : https://x.gd/Isahb
+      - https://x.com/kotohibi_3d/status/2052254524036047299
+
 ---
 
 Refer to the detail workflow
